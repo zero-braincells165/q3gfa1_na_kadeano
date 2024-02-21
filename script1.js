@@ -1,7 +1,7 @@
 function runScript1() {
-    var nickname = "Karen";
-    var heightInInches = 62;
-    var weightInKg = 50;
+    var nickname = "Yuri";
+    var heightInInches = 65;
+    var weightInKg = 75;
 
     var heightInFeet = Math.floor(heightInInches / 12);
     var remainingInches = heightInInches % 12;
