@@ -16,6 +16,9 @@ function runScript3() {
             alert("Name: " + nickname + "\nHeight: " + heightDisplay + "\nWeight: " + weightInLbs.toFixed(3) + " lbs");
         }
     } else {
-        console.log("User does not wish to share his/her information.");
+        console.log
+        {
+            alert("User does not wish to share his/her information.");
+        }
     }
 }
