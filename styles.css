@@ -1,0 +1,27 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 3rem;
+    background-color: #ffcccb; /* light red */
+}
+
+.button-container {
+    top: 50vh;
+    display: flex;
+    gap: 1rem;
+}
+
+.button {
+    padding: 0.5em 1em;
+    border: none;
+    background-color: #ffd700; /* gold */
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #cd7f32; /* bronze */
+}
